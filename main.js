@@ -1,4 +1,4 @@
-/**
+/******
  * Created by mikhail on 28.03.17.
  */
 var app = angular.module('app',[]);
